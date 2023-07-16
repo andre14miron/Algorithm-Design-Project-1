@@ -1,6 +1,6 @@
 # Algorithm Design Project #1
 
-## The description
+## Description
 This problem set served as the first assignment for the "Algorithm Design" course, covering the following algorithms: Divide et Impera, Greedy and Dynamic Programming. The set consists of four main problems, along with a bonus problem. Each problem is solved using specific algorithmic techniques as outlined below:
 - **Problem #1** : `Binary Search with Knapsack Problem`
 - **Problem #2**: `Greedy`
